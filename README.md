@@ -2,6 +2,7 @@
 
 
 ## preview
+![image](https://github.com/yueran-z/mongodb-crud-vue-express/blob/master/preview/live-effect.gif)
 
 
 ### dependencies
